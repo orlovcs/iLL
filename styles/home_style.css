@@ -1,0 +1,144 @@
+body{
+    color: aliceblue;
+    
+    background-color: black;
+    font-family: simhei, helvetica; 
+    line-height: 1;
+}
+
+
+#header{
+    
+}
+#loginform{
+    padding-top: 20px;
+    color: aliceblue;  
+}
+#radiohead{
+    
+    margin-top: 39px;
+    
+}
+
+#sidebar{
+        margin-top: 8px;
+
+height: 80%;
+width: 30%;
+    
+    border: 1px solid aliceblue;
+float: left;
+    
+}
+#maincontent{
+    margin-top: 8px;
+    height: 80%;
+width: 69%;
+    
+    float: right;
+    
+            border: 1px solid aliceblue;
+
+}
+
+.container{
+    
+  /*  background-color: aqua; */
+    text-align: center;
+    
+}
+
+.container a{
+text-decoration: none;
+    color: aliceblue;
+    
+    /*  background-color: aqua; */
+    text-align: center;
+    
+}
+#head_wrap{
+            margin-top: 8px;
+
+        border: 1px solid aliceblue;
+
+    
+    color: aliceblue;
+    height: 120px;
+}
+
+#head{
+        margin-top: 8px;
+
+    height: 120px;
+    width: auto;
+    border-style: inset;
+    border-color: red;
+    border-width: thin;
+    color: red;
+    font-size: 100;
+    text-align: center;
+    margin-bottom: 90px;
+    border-radius: 0px;
+}
+
+#text{
+    margin-left: 150px;
+    margin-right: 150px;
+    text-align: center;
+    color: blue;
+}
+
+
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
